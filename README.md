@@ -18,6 +18,9 @@ Or simply download an archived course contents:
 
 ![](./images/readme_download_repo_zip.png)
 
+Launch Jupyter server on OSC:
+
+![](./images/readme_launch_osc.png)
 ## Dependencies
 
 For those with native pip, use the following to install all dependencies:
@@ -32,4 +35,4 @@ Author: [Cankun Wang](https://github.com/Wang-Cankun)
 
 Repository material is inspired by the following courses:
 
-- [fastbook](https://github.com/fastai/fastbook) by (fastai)[https://docs.fast.ai/]
+- [fastbook](https://github.com/fastai/fastbook) by [fastai](https://docs.fast.ai/)
