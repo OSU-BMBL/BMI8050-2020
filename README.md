@@ -4,7 +4,8 @@ This is the repository for the **Applications of Machine Learning and Artificial
 
 ## Table of contents
 
-- Chapter 0 - Introduction to Jupyter Notebooks: The entirety of every chapter of is available as an interactive Jupyter Notebook. Since the most important thing for learning deep learning is writing code and experimenting, it's important that you have a great platform for experimenting with code.
+- Chapter 1 - Predictive modeling using R markdown.
+- Chapter 2 - Introduction to Jupyter Notebooks: The entirety of every chapter of is available as an interactive Jupyter Notebook. Since the most important thing for learning deep learning is writing code and experimenting, it's important that you have a great platform for experimenting with code.
 
 ## Installation
 
