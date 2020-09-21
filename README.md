@@ -4,9 +4,9 @@ This is the repository for the **Applications of Machine Learning and Artificial
 
 ## Table of contents
 
-- Chapter 1 - Predictive modeling using R markdown.
-- Chapter 2 - Introduction to Jupyter Notebooks: The entirety of every chapter of is available as an interactive Jupyter Notebook. Since the most important thing for learning deep learning is writing code and experimenting, it's important that you have a great platform for experimenting with code.
-
+- Guest - Predictive modeling using R markdown.
+- Chapter 1 - Introduction to Jupyter Notebooks: The entirety of every chapter of is available as an interactive Jupyter Notebook. Since the most important thing for learning deep learning is writing code and experimenting, it's important that you have a great platform for experimenting with code.
+- Chapter 2 - Mechanisms of Action (MoA) Prediction using DNN models.
 ## Installation
 
 To download all course material, type the following into the command-line:
@@ -22,13 +22,6 @@ Or simply download an archived course contents:
 Launch Jupyter server on OSC:
 
 ![](./images/readme_launch_osc.png)
-## Dependencies
-
-For those with native pip, use the following to install all dependencies:
-
-```
-pip install -r requirements.txt
-```
 
 ## About
 
