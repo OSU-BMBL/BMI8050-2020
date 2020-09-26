@@ -8,8 +8,10 @@ CUDA version: 10.2.89 (The last one)
 Cores: 4
 Jupyter lab version: 2.1 (Default)
 
-# Login OSC OnDemand and open a terminal session
+# Login OSC OnDemand and open a terminal session, the following command will update the course Git repository and install pytorch
 
+cd ~/BMI8050-2020
+git stash && git pull && git checkout stash -- .
 ml python/3.6
 source activate bmi8050
-conda install pytorch
+conda install pytorch -y
