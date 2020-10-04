@@ -4,7 +4,7 @@ Cluster: owens
 Project: PAS1791
 Hours: 4
 Node type: any GPU
-CUDA version: 10.2.89 (The last one)
+CUDA version: 10.2.89
 Cores: 4
 Jupyter lab version: 2.1 (Default)
 
