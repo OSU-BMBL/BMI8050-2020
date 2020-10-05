@@ -19,3 +19,5 @@ git stash && git pull && git checkout stash -- .
 ml python/3.6
 source activate bmi8050
 conda install matplotlib pytorch
+
+
