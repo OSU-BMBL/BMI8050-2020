@@ -1,3 +1,7 @@
+# Login OnDemand:
+
+https://ondemand.osc.edu/pun/sys/dashboard
+
 # Start a jupyter session with the following settings:
 
 Cluster: owens
