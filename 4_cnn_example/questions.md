@@ -28,10 +28,11 @@
 
 ## TODO: Define the compile operation with your optimizer and learning rate of choice'''
 
-1. model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['binary_accuracy'])
-2. model.compile(loss='binary_crossentropy', optimizer='adam', activation='softmax')
-3. model.compile(loss='binary_crossentropy', optimizer='adam', activation='softmax')
-
+1. model.compile(loss='adam', optimizer='binary_crossentropy', metrics=['binary_accuracy'])
+2. model.compile(loss='adam', optimizer='binary_crossentropy', activation='softmax')
+3. model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['binary_accuracy'])
+4. model.compile(loss='binary_crossentropy', optimizer='adam', activation='softmax')
+   
 ## TODO: Use model.fit to train the CNN model, with the number of epochs, vervose type.
 
 1. model.fit(train_features, test_labels, epochs=50, verbose=1, validation_split=0.25)
