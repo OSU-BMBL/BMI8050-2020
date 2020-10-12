@@ -8,6 +8,7 @@ This is the repository for the **Applications of Machine Learning and Artificial
 - Chapter 1 - Introduction to Jupyter Notebooks: The entirety of every chapter of is available as an interactive Jupyter Notebook. Since the most important thing for learning deep learning is writing code and experimenting, it's important that you have a great platform for experimenting with code.
 - Chapter 2 - Mechanisms of Action (MoA) Prediction using DNN models.
 - Chapter 3 - DCNet - A simple LSTM-RNN for generating sequence consensus.
+- Chapter 4 - A tutorial of DNA motif finding using CNN.
 
 ## Installation
 To download all course material, type the following into the command-line:
