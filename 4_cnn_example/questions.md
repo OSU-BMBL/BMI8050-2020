@@ -40,8 +40,7 @@ B. model.fit(test_features, train_labels, epochs=50, verbose=1, validation_split
 C. model.fit(train_features, train_labels, epochs=50, verbose=1, validation_split=0.25)
 D. model.fit(test_features, test_labels, epochs=50, verbose=1, validation_split=0.25)
 
-An epoch is a single pass through the full training set
-The more epoch the better?
+
 
 ## TODO: Use model.predict to train the CNN model
 
@@ -50,7 +49,14 @@ B. model.predict(test_features)
 C. model.predict(train_labels)
 D. model.predict(test_labels)
 
-98% accuracy is great, can we imporve the performance?
+## Other questions
+98% accuracy is great, can we improve the performance?
 Add activation function to convolutional layer
-
 What if we add more convolutional layers?
+What if we use sigmoid in the output layer?
+The more epoch the better?
+
+Notes:
+Sigmoid function is used for the two-class logistic regression, whereas the softmax function is used for the multiclass logistic regression.
+The output of the softmax describes the probability (or if you may, the confidence) of our neural network that a particular sample belongs to a certain class
+
