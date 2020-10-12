@@ -26,14 +26,14 @@ C. model.add(Dense(2, activation='sigmoid'))
 D. model.add(Dense(2, activation='softmax'))
 
 
-## TODO: Define the compile operation with your optimizer and learning rate of choice'''
+## TODO: Define the compile operation with your optimizer
 
 A. model.compile(loss='adam', optimizer='binary_crossentropy', metrics=['binary_accuracy'])
 B. model.compile(loss='adam', optimizer='binary_crossentropy', activation='softmax')
 C. model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['binary_accuracy'])
 D. model.compile(loss='binary_crossentropy', optimizer='adam', activation='softmax')
    
-## TODO: Use model.fit to train the CNN model, with the number of epochs, vervose type.
+## TODO: Use model.fit to train the CNN model, with the number of epochs, verbose type
 
 A. model.fit(train_features, test_labels, epochs=50, verbose=1, validation_split=0.25)
 B. model.fit(test_features, train_labels, epochs=50, verbose=1, validation_split=0.25)
@@ -43,7 +43,7 @@ D. model.fit(test_features, test_labels, epochs=50, verbose=1, validation_split=
 An epoch is a single pass through the full training set
 The more epoch the better?
 
-## TODO: Use model.predict to train the CNN model, with the number of epochs, vervose type.
+## TODO: Use model.predict to train the CNN model
 
 A. model.predict(train_features)
 B. model.predict(test_features)
