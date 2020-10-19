@@ -1,0 +1,13 @@
+### Create conda env
+module load python/3.6
+conda create -n bmi8050 python=3.6 tensorflow ipykernel -y
+source activate bmi8050
+pip install tensorflow_addons
+python -m ipykernel install --user --name "bmi8050" --display-name "bmi8050"
+
+### How to bubmit a job
+Prepare a job script: example_job.sh
+Submit: qsub example_job.sh
+Show status: qstat -u <username>
+Delete job: qdel <jobid>
+Delete all your jobs: qselect -u <username> -s <state> | xargs qdel
