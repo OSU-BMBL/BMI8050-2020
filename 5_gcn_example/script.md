@@ -12,7 +12,7 @@ Hours: 4
 
 Node type: any GPU
 
-CUDA version: 10.1 **(important!!!)**
+CUDA version: 10.2
 
 Cores: 4
 
