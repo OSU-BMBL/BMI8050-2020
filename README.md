@@ -9,6 +9,7 @@ This is the repository for the **Applications of Machine Learning and Artificial
 - Chapter 2 - Mechanisms of Action (MoA) Prediction using DNN models.
 - Chapter 3 - DCNet - A simple LSTM-RNN for generating sequence consensus.
 - Chapter 4 - A tutorial of DNA motif finding using CNN.
+- Chapter 5 - A tutorial of predicting protein-protein interactions using GCN.
 
 ## Installation
 To download all course material, type the following into the command-line:
