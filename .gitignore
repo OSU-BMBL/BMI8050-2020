@@ -1,3 +1,4 @@
 .ipynb_checkpoints
 data
 /2_dnn_example/*.csv
+!5_gcn_example/data/
