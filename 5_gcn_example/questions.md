@@ -6,7 +6,7 @@ What is the input size of the first layer?
 
 Why adding self-connections in adjacency matrix?
 1. To prevent overfitting
-2. To increase training performaces
+2. To increase training performances
 3. To learn node's own feature
 4. To speed up the training time
 
@@ -15,4 +15,5 @@ Is there an overfitting issue in our model? Why?
 2. No, because the ROC keeps decreasing.
 3. Yes, because the loss keeps decreasing.
 4. Yes, because the ROC keeps decreasing.
+
 
