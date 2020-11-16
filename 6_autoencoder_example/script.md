@@ -8,7 +8,7 @@ Cluster: owens
 
 Project: PAS1791
 
-Hours: 2
+Hours: 4
 
 Node type: any GPU
 
