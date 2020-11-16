@@ -2,17 +2,26 @@
 
 https://ondemand.osc.edu/pun/sys/dashboard
 
-# Start a jupyter session with the following settings:
+# Start a Jupyter session with the following settings:
 
 Cluster: owens
+
 Project: PAS1791
+
 Hours: 2
+
 Node type: any GPU
-CUDA version: 10.2.89
+
+CUDA version: 10.2
+
 Cores: 4
+
 Jupyter lab version: 2.1 (Default)
 
-# Login OSC OnDemand and open a terminal session, the following command will update the course Git repository and install pytorch
+# Login OSC OnDemand and open a terminal session, the following command will update the course Git repository
 
+```
 cd ~/BMI8050-2020
+
 git stash && git pull && git checkout stash -- .
+```
