@@ -10,7 +10,7 @@ This is the repository for the **Applications of Machine Learning and Artificial
 - Chapter 3 - DCNet - A simple LSTM-RNN for generating sequence consensus.
 - Chapter 4 - A tutorial of DNA motif finding using CNN.
 - Chapter 5 - A tutorial of predicting protein-protein interactions using GCN.
-- Chapter 6 - A tutorial of dimention reduction in single-cell RNA-seq dataset using Autoencoder.
+- Chapter 6 - A tutorial of dimension reduction in single-cell RNA-seq dataset using Autoencoder.
 - Final - Final reports for each students
 ## Installation
 To download all course material, type the following into the command-line:
