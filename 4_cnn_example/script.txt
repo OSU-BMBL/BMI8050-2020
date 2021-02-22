@@ -16,3 +16,10 @@ Jupyter lab version: 2.1 (Default)
 
 cd ~/BMI8050-2020
 git stash && git pull && git checkout stash -- .
+
+# If matplotlib is not installed 
+ml python/3.6
+source activate bmi8050
+pip install --user matplotlib
+
+#conda install matplotlib pytorch
